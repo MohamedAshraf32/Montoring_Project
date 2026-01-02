@@ -1,0 +1,5 @@
+[central_server]
+192.168.255.128 ansible_user=ashraf ansible_password=ashraf ansible_become_password=ashraf
+
+[monitored_nodes]
+192.168.255.131 ansible_user=ashraf ansible_password=ashraf ansible_become_password=ashraf
